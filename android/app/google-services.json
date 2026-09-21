@@ -1,0 +1,412 @@
+{
+  "project_info": {
+    "project_number": "402423441604",
+    "project_id": "viserlab-global-app",
+    "storage_bucket": "viserlab-global-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402423441604:android:f9376e3eb70432c1b04191",
+        "android_client_info": {
+          "package_name": "com.belyfted"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402423441604-53kvi2o82481m6b00j7o22l0pjcimfpg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.belyfted",
+            "certificate_hash": "c5682c8281d41174738037e755afba6d19d0460f"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVkdLgv2PcZCamYvw00aoG-mQmVTHndw4"
+        },
+        {
+          "current_key": "AIzaSyBfAkI8p8wKmbwtUi9Cq-2V4m4_65hAuU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402423441604-4kva6h7j2ka2ftcjr6oj13o97t46efhi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "402423441604-1mjbfsukjs69ragmn4uqgrc4o1va282r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.watchnownetwork.blkcinemanetwork.playLabLatest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402423441604:android:b7d5e552b5960956b04191",
+        "android_client_info": {
+          "package_name": "com.watchnownetwork.blkcinemanetwork.play_lab_latest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402423441604-9q7ijduna5mlv3cdthr14tcjos9vf1kc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.watchnownetwork.blkcinemanetwork.play_lab_latest",
+            "certificate_hash": "83addae3ae21e4ea91d60576e3e546a747f1fb14"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVkdLgv2PcZCamYvw00aoG-mQmVTHndw4"
+        },
+        {
+          "current_key": "AIzaSyBfAkI8p8wKmbwtUi9Cq-2V4m4_65hAuU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402423441604-4kva6h7j2ka2ftcjr6oj13o97t46efhi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "402423441604-1mjbfsukjs69ragmn4uqgrc4o1va282r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.watchnownetwork.blkcinemanetwork.playLabLatest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402423441604:android:36a742fede4ca364b04191",
+        "android_client_info": {
+          "package_name": "dev.vlab.globalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVkdLgv2PcZCamYvw00aoG-mQmVTHndw4"
+        },
+        {
+          "current_key": "AIzaSyBfAkI8p8wKmbwtUi9Cq-2V4m4_65hAuU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402423441604-4kva6h7j2ka2ftcjr6oj13o97t46efhi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "402423441604-1mjbfsukjs69ragmn4uqgrc4o1va282r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.watchnownetwork.blkcinemanetwork.playLabLatest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402423441604:android:acdcb65d29a22e3ab04191",
+        "android_client_info": {
+          "package_name": "dev.vlab.localcoin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402423441604-m5pd97f2brudbij6677mv1ga24c39eml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.vlab.localcoin",
+            "certificate_hash": "5f4cfe9242e9bbf9ca8d198dac49d799db050919"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVkdLgv2PcZCamYvw00aoG-mQmVTHndw4"
+        },
+        {
+          "current_key": "AIzaSyBfAkI8p8wKmbwtUi9Cq-2V4m4_65hAuU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402423441604-4kva6h7j2ka2ftcjr6oj13o97t46efhi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "402423441604-1mjbfsukjs69ragmn4uqgrc4o1va282r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.watchnownetwork.blkcinemanetwork.playLabLatest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402423441604:android:4de1d43ac4e9f6acb04191",
+        "android_client_info": {
+          "package_name": "dev.vlab.rapidloan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402423441604-sc93mqmvighqh5bm78p3hueur2a07gd3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.vlab.rapidloan",
+            "certificate_hash": "5f4cfe9242e9bbf9ca8d198dac49d799db050919"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVkdLgv2PcZCamYvw00aoG-mQmVTHndw4"
+        },
+        {
+          "current_key": "AIzaSyBfAkI8p8wKmbwtUi9Cq-2V4m4_65hAuU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402423441604-4kva6h7j2ka2ftcjr6oj13o97t46efhi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "402423441604-1mjbfsukjs69ragmn4uqgrc4o1va282r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.watchnownetwork.blkcinemanetwork.playLabLatest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402423441604:android:d99a65aeeaef13a6b04191",
+        "android_client_info": {
+          "package_name": "dev.vlab.xaxino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402423441604-hootplqsqk3bh41beph3il0748i4262b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.vlab.xaxino",
+            "certificate_hash": "b136159e2d15ade4750b074c4cf45ea6f715b188"
+          }
+        },
+        {
+          "client_id": "402423441604-pv1dl8vd99tdrifdi9cbh2kpbp0dn1gr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.vlab.xaxino",
+            "certificate_hash": "4cff9130360a23c78da4ea364d43e5d31d4aa4f2"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVkdLgv2PcZCamYvw00aoG-mQmVTHndw4"
+        },
+        {
+          "current_key": "AIzaSyBfAkI8p8wKmbwtUi9Cq-2V4m4_65hAuU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402423441604-4kva6h7j2ka2ftcjr6oj13o97t46efhi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "402423441604-1mjbfsukjs69ragmn4uqgrc4o1va282r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.watchnownetwork.blkcinemanetwork.playLabLatest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402423441604:android:f2a51acda524852ab04191",
+        "android_client_info": {
+          "package_name": "dev.vlab.xcash_agent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVkdLgv2PcZCamYvw00aoG-mQmVTHndw4"
+        },
+        {
+          "current_key": "AIzaSyBfAkI8p8wKmbwtUi9Cq-2V4m4_65hAuU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402423441604-4kva6h7j2ka2ftcjr6oj13o97t46efhi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "402423441604-1mjbfsukjs69ragmn4uqgrc4o1va282r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.watchnownetwork.blkcinemanetwork.playLabLatest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402423441604:android:d862ac160bedd4f0b04191",
+        "android_client_info": {
+          "package_name": "dev.vlab.xcash_merchant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVkdLgv2PcZCamYvw00aoG-mQmVTHndw4"
+        },
+        {
+          "current_key": "AIzaSyBfAkI8p8wKmbwtUi9Cq-2V4m4_65hAuU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402423441604-4kva6h7j2ka2ftcjr6oj13o97t46efhi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "402423441604-1mjbfsukjs69ragmn4uqgrc4o1va282r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.watchnownetwork.blkcinemanetwork.playLabLatest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402423441604:android:5aedaf6961dbfcabb04191",
+        "android_client_info": {
+          "package_name": "dev.vlab.xcash_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402423441604-rvsvfmddaf51ne90r1dgmnnlbq48qq18.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.vlab.xcash_user",
+            "certificate_hash": "c5682c8281d41174738037e755afba6d19d0460f"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVkdLgv2PcZCamYvw00aoG-mQmVTHndw4"
+        },
+        {
+          "current_key": "AIzaSyBfAkI8p8wKmbwtUi9Cq-2V4m4_65hAuU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402423441604-4kva6h7j2ka2ftcjr6oj13o97t46efhi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "402423441604-1mjbfsukjs69ragmn4uqgrc4o1va282r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.watchnownetwork.blkcinemanetwork.playLabLatest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402423441604:android:2b188fe5518dcb07b04191",
+        "android_client_info": {
+          "package_name": "dev.vlab_xcash_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVkdLgv2PcZCamYvw00aoG-mQmVTHndw4"
+        },
+        {
+          "current_key": "AIzaSyBfAkI8p8wKmbwtUi9Cq-2V4m4_65hAuU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402423441604-4kva6h7j2ka2ftcjr6oj13o97t46efhi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "402423441604-1mjbfsukjs69ragmn4uqgrc4o1va282r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.watchnownetwork.blkcinemanetwork.playLabLatest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
